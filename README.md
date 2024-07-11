@@ -31,7 +31,7 @@ This is a  basic full-stack web application that uses Flask as the backend and R
 2. Create a virtual environment and activate it:
 
     ```sh
-    python -m venv venv
+    python -m venv env
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
     ```
 
@@ -70,7 +70,7 @@ This is a  basic full-stack web application that uses Flask as the backend and R
 3. Run the React application:
 
     ```sh
-    npm start
+    npm run dev
     ```
 
 ## Usage
